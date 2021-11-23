@@ -7,7 +7,7 @@
 <p>• Delete all and paste with my script</p>
 <img src="/img/2.png">
 <p>• Open <a href="https://ipinfo.io/">ipinfo.io</a>, login and take your token</p>
-<img src="/img/3.png" width="250x300">
+<img src="/img/3.png">
 <p>• Paste your token in script and save</p>
 <img src="/img/4.png" width="250x300">
 <p>• Open <a href="https://ome.tv">Ome.tv</a> and enjoy</p>
