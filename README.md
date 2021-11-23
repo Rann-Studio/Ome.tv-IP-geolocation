@@ -5,7 +5,7 @@
 <p>• Click <b>Create a new script</b></p>
 <img src="/img/1.png" width="250x300">
 <p>• Delete all and paste with my script</p>
-<img src="/img/2.png" width="500x600">
+<img src="/img/2.png">
 <p>• Open <a href="https://ipinfo.io/">ipinfo.io</a>, login and take your token</p>
 <img src="/img/3.png" width="250x300">
 <p>• Paste your token in script and save</p>
