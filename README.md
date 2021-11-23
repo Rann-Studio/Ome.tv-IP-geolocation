@@ -13,6 +13,6 @@
 <img src="/img/3.png">
 
 <p>• Paste your token in script and save</p>
-<img src="/img/4.png" width="250x300">
+<img src="/img/4.png">
 
 <p>• Open <a href="https://ome.tv">Ome.tv</a> and enjoy</p>
