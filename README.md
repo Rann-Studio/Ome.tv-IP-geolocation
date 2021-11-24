@@ -3,6 +3,8 @@
 **How to use ?**
 <p>• Install Tampermonkey extension. Click <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=id">here</a> if you're using Chrome, or click <a href="https://addons.mozilla.org/id/firefox/addon/tampermonkey/">here</a> if you're using Firefox</p>
 
+<p>• Install script in <a href="https://greasyfork.org/en/scripts/436016-ome-tv-ip-geolocation">Greasy Fork</a> or follow instructions below</p>
+
 <p>• Click <b>Create a new script</b></p>
 <img src="/img/1.png" width="250x300">
 
