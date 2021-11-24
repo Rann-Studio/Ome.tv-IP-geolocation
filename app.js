@@ -2,7 +2,7 @@
 // @name         Ome.tv IP Geolocation
 // @license      MIT License
 // @namespace    https://github.com/Rann-Studio/Ome.tv-IP-geolocation
-// @version      0.1
+// @version      0.2
 // @description  Ome.tv IP Geolocation By RannStudio
 // @author       RannStudio
 // @match        https://ome.tv/
